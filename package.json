@@ -1,7 +1,7 @@
 {
   "name": "puggles",
   "version": "1.0.0",
-  "description": "A PUG bot configurable for any game.",
+  "description": "A module for easy PUG creation and management.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
