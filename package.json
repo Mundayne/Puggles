@@ -1,0 +1,19 @@
+{
+  "name": "puggles",
+  "version": "1.0.0",
+  "description": "A PUG bot configurable for any game.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mundayne/Puggles.git"
+  },
+  "author": "Mundane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mundayne/Puggles/issues"
+  },
+  "homepage": "https://github.com/Mundayne/Puggles#readme"
+}
